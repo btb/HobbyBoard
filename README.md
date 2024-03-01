@@ -5,3 +5,6 @@
 
 ## Miniaturized version
 ![rendering of Mini Hobby Proto Board](MiniProto.png)
+
+
+Download gerber files at https://github.com/btb/HobbyBoard/releases
